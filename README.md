@@ -1,9 +1,11 @@
-# 模板
+# Earthworm-TankFile-Viewer
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- 這是一個 Earthworm TankFile Viewer
+
+![image](https://user-images.githubusercontent.com/44525760/213117129-6e990826-17aa-4775-9160-8f4be9e67831.png)
 
 ## 索引
 - [貢獻者](#貢獻者)
